@@ -7,7 +7,7 @@
 # if __name__=='__main__':
 #     print('one.py is run directly')
 # else:
-#     print('c')
+#     print('one.py is imported')
 #
 #
 #
@@ -32,7 +32,7 @@
 #
 # python two.py
 # Top level in one.py
-# Top level in one.py
+# one.py is imported
 # Top level in two.py
 # Fun in one.py
 # two.py is run directly
